@@ -1,2 +1,2 @@
-# рнбю е мю мхмх яюирю
-This is my website
+# georgikolev17.github.io
+рнбю е мю мхмх яюирю

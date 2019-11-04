@@ -1,1 +1,2 @@
-# georgikolev17.github.io
+# Labyrinth
+Escape the labyrinth
